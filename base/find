@@ -1,0 +1,2 @@
+find path | xargs -ri ""
+fine path -name filename -print
