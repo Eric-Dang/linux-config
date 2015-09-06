@@ -1,0 +1,13 @@
+使用alias查看系统重命名的定义
+使用unalias看以删除重命名
+
+根据自己的需求可以再.bash_profile中添加对应的命令
+
+alias cp='cp -i'
+alias l.='ls -d .* --color=auto'
+alias ll='ls -l --color=auto'
+alias ls='ls --color=auto'
+alias mv='mv -i'
+alias rm='rm -i'
+alias vi='vim'
+alias which='alias | /usr/bin/which --tty-only --read-alias --show-dot --show-tilde'

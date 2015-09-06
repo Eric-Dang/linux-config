@@ -1,0 +1,5 @@
+# Fortran module files
+*.mod
+
+# vi/vim .swp file
+*.swp
