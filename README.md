@@ -1,23 +1,22 @@
 # linux-config
-some tools config and system config on linux system
 
-# vim
-vim Ïà¹ØÅäÖÃ¶¼ÔÚ./vimÄ¿Â¼ÖĞ
+## vim
+vim ç›¸å…³é…ç½®éƒ½åœ¨./vimç›®å½•ä¸­
 
-vimrc: vim»ù´¡ÅäÖÃ
+vimrc: vimåŸºç¡€é…ç½®
 
-# git
-gitÏà¹ØÅäÖÃ¶¼ÔÚ./gitÄ¿Â¼ÖĞ
+## git
+gitç›¸å…³é…ç½®éƒ½åœ¨./gitç›®å½•ä¸­
 
-color-config.bash : gitÑÕÉ«ÅäÖÃ
+color-config.bash : gité¢œè‰²é…ç½®
 
-git-completion.bash : gitÃüÁî×Ô¶¯²¹È«£¬ĞèÒªÔÚ.bash_profileÌí¼Ósource
+git-completion.bash : gitå‘½ä»¤è‡ªåŠ¨è¡¥å…¨ï¼Œéœ€è¦åœ¨.bash_profileæ·»åŠ source
 
-git-global-config : git²¿·ÖÈ«¾Ö±äÁ¿ÉèÖÃ
+git-global-config : gitéƒ¨åˆ†å…¨å±€å˜é‡è®¾ç½®
 
-# base
-linuxÏµÍ³Ïà¹ØµÄÅäÖÃ¶¼ÔÚ./baseÄ¿Â¼ÖĞ
+## base
+linuxç³»ç»Ÿç›¸å…³çš„é…ç½®éƒ½åœ¨./baseç›®å½•ä¸­
 
-alias : ÖØÃüÃûĞÅÏ¢
+alias : é‡å‘½åä¿¡æ¯
 
-
+find : findå‘½ä»¤ä½¿ç”¨
