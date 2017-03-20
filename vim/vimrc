@@ -138,11 +138,11 @@ if &term=="xterm"
 endif
 
 " just for encode
-set fileencodings=gb2312,gbk,gb18030
-set termencoding=GB2312
+set fileencodings=gb2312,gbk,gb18030,en_US.UTF-8
+set termencoding=GB2312,en_US.UTF-8
 set fileformats=unix
 set encoding=prc
 
 " set font and scheme
-set gfn=Consolas:h12
+set gfn=Consolas:h15
 colorscheme default   " torte
